@@ -8,6 +8,7 @@ sujeito a
   -x + 2 * y <= 7
   2 * x + y <= 14
   2 * x - y <= 10
+
 '''
 
 # pip install gurobipy
